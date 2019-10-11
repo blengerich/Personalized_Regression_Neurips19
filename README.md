@@ -1,2 +1,22 @@
 # Personalized_Regression_Neurips19
-Code for Experiments Accompanying the paper "Learning Sample-Specific Models with Low-Rank Personalized Regression"
+Code for Experiments acompanying the paper "Learning Sample-Specific Models with Low-Rank Personalized Regression"
+
+## Data
+Datasets for experiments are available in the following [Dropbox folder]().
+
+
+## Citing
+
+If you use the code or machine learning ideas in this repository, please cite the most recent paper:
+```
+@inproceedings{lengerich2019learning,
+  title = {Learning Sample-Specific Models with Low-Rank Personalized Regression},
+  author = {Lengerich, Benjamin J and Aragam, Bryon and Xing, Eric P},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={},
+  year={2019}
+}
+```
+
+## Contact
+Please contact blengeri@cs.cmu.edu, naragam@cs.cmu.edu or epxing@cs.cmu.edu with any questions. Pull requests are always welcome.
