@@ -1,5 +1,5 @@
 # Personalized_Regression_Neurips19
-Code for Experiments acompanying the paper "Learning Sample-Specific Models with Low-Rank Personalized Regression"
+Code for Experiments acompanying the paper ["Learning Sample-Specific Models with Low-Rank Personalized Regression"](http://papers.nips.cc/paper/8616-learning-sample-specific-models-with-low-rank-personalized-regression)
 
 ## Data
 Datasets for experiments are available in the following [Dropbox folder](https://www.dropbox.com/sh/ikrc9sz3olsa1od/AAAgo7gXpFOn_Rdj23k1xcX_a?dl=0).
