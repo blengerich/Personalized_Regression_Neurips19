@@ -114,7 +114,7 @@ class DistanceMatching():
 
     def _calc_losses(self, iteration):
         self._update_beta_hat(iteration, True)
-        loss1 = np.sum([
+        loss1 = np.mean([
             self.f(self.X[i], self.Y[i], self.beta_hat[i]) for i in range(self.N)])
         loss2 = 0.5*self.gamma*np.mean(
             np.mean(np.square(self.dist_errors), axis=1))
